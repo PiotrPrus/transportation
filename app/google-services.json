@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "713388124148",
+    "firebase_url": "https://transportatiotestapp.firebaseio.com",
+    "project_id": "transportatiotestapp",
+    "storage_bucket": "transportatiotestapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713388124148:android:5270ed0df330e65c",
+        "android_client_info": {
+          "package_name": "com.prosurpit.transportation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "713388124148-93vshu3t4rhmapbsj4m9t34tfjnubpke.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.prosurpit.transportation",
+            "certificate_hash": "2e806596b8bbb09de9b4666a2e3d17e6cd63b70c"
+          }
+        },
+        {
+          "client_id": "713388124148-t8ugadf3jmccsr93vtnl8blrsekjhn3p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMVlkqsD0FWhgU4ULfAJqC_565LirCspE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "713388124148-t8ugadf3jmccsr93vtnl8blrsekjhn3p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
